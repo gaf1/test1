@@ -1,4 +1,8 @@
 georg
+<<<<<<< .merge_file_Nt5HhH
 1a
+=======
+1243a
+>>>>>>> .merge_file_ScXQ9Z
 
 So 16 Feb 2014 15:58:14 CET
